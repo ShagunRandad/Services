@@ -1,0 +1,5 @@
+package shg.bankingApplication.service;
+
+public interface AccountService {
+
+}

@@ -1,0 +1,8 @@
+package shg.bankingApplication.entity;
+
+@Entity
+@Table(name="user_details")
+public class User {
+	
+
+}

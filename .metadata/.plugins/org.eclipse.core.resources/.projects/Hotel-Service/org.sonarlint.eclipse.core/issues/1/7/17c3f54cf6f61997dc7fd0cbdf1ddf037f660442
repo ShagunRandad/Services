@@ -1,0 +1,4 @@
+
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b adeb949629d00aa6ed5e9eda348111bfh
+f
+java:S1128"+Remove this unused import 'java.util.UUID'.8§Ó¨ÉÔ1b a21f7f95996a0ffefc572cf90cf50fdeh

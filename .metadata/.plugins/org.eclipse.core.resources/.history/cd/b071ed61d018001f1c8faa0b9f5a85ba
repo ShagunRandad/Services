@@ -1,0 +1,12 @@
+package shg.bankingApplication.entity;
+
+import jakarta.persistence.Entity;
+
+@Entity
+public class Account {
+	private Long id;
+	private String acoountHolderName;
+	private double balance;
+	
+
+}

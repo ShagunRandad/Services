@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.lcwd.hotelService.Service.Service.java&apos; to &apos;hotelService.java&apos;&#x0D;&#x0A;- Original project: &apos;HotelService&apos;&#x0D;&#x0A;- Original element: &apos;com.lcwd.hotelService.Service.Service.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.lcwd.hotelService.Service.hotelService.java&apos;" description="Rename compilation unit &apos;Service.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.lcwd.hotelService.Service{Service.java" name="hotelService.java" references="false" stamp="1713422357433" version="1.0"/>
+</session>

@@ -1,0 +1,5 @@
+package shg.bankingApplication.controller;
+
+public class AccountController {
+
+}

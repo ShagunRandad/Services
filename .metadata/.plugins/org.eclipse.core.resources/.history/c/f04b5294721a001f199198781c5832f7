@@ -1,0 +1,12 @@
+package shg.bankingApplication.mapper;
+
+import org.springframework.context.annotation.Configuration;
+
+import shg.bankingApplication.dto.AccountDto;
+import shg.bankingApplication.entity.Account;
+@Configuration
+public class AccountMapper {
+	
+	
+
+}

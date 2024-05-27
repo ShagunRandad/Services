@@ -1,0 +1,14 @@
+package shg.bankingApplication.mapper;
+
+import shg.bankingApplication.dto.AccountDto;
+import shg.bankingApplication.entity.Account;
+
+public class AccountMapper {
+	
+	public static Account mapToAccount(AccountDto accountDto) {
+		
+		Account account=new Account(accountDto.getId(),accountDto.getAcoountHolderName(),accountDto.getBalance());
+		
+	}
+
+}

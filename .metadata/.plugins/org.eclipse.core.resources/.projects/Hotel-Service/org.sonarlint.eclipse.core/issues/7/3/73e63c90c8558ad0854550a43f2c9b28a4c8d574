@@ -1,0 +1,6 @@
+
+Н	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b 57e35344f84f95129809648128017ee8h
+Ф
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").8Ъ╒¤пя1b a4f5c9920c2235bcf03341de5d2e2d58h
+Б
+java:S1192"FDefine a constant instead of duplicating this literal "Rohit" 5 times.8ТЕ■пя1b 225f9fafd805044ecf64c18749f92c13h

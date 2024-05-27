@@ -1,0 +1,5 @@
+package shg.bankingApplication.reposistry;
+
+public interface AcocuntReposistry {
+
+}

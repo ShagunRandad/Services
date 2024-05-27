@@ -1,0 +1,6 @@
+
+~
+java:S1854-"CRemove this useless assignment to local variable "authResponseDto".8üþ«çâ1b 800082e7ca3b7c62a2c39d7e5e0b4499h
+o
+java:S1481-"4Remove this unused "authResponseDto" local variable.8üþ«çâ1b dcd6ab31743fc60efd44c60299ff6e6eh
+e	java:S106%"+Replace this use of System.out by a logger.8ô’ÎÆß1b bb1c3f2ea781263d3a2bb92b06a2061fh

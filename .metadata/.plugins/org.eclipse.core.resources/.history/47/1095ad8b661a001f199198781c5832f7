@@ -1,0 +1,12 @@
+package shg.bankingApplication.entity;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name="user_details")
+public class User {
+       private String userId;
+       private String password
+
+}

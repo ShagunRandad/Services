@@ -1,0 +1,6 @@
+
+é
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.8ÄÕù∆ﬂ1b abe65ebf00128eb35e0e67df8b49f2edh
+ã
+java:S1128"PRemove this unused import 'com.exam.portal.service.impl.UserDetailsServiceImpl'.8†⁄°∆ﬂ1b dc929b23f24e1b7879ce385fa22a2134h
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b a4cafc81a9795110fd017dbd0efceb73h

@@ -1,0 +1,9 @@
+package shg.bankingApplication.service;
+
+import shg.bankingApplication.entity.Account;
+
+public interface AccountService {
+   
+	
+	Account createAccount();
+}

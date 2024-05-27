@@ -1,0 +1,43 @@
+package shg.bankingApplication.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import shg.bankingApplication.dto.AccountDto;
+import shg.bankingApplication.service.AccountService;
+
+@RestController
+@RequestMapping(value="/api/account")
+public class AccountController {
+	
+	@Autowired
+	AccountService accountService;
+	
+	@PostMapping(value="/create-account")
+	public ResponseEntity<AccountDto> createAccountDto(@RequestBody AccountDto accountDto){
+	AccountDto account=accountService.createAccount(accountDto);
+		return new ResponseEntity<>(accountDto, HttpStatus.CREATED);
+	}
+	
+	@GetMapping(value="/getAccoutDetailsById/{id}")
+	public ResponseEntity<AccountDto> getAccountDetais(@PathVariable long id){
+	AccountDto accountDto=accountService.getAccountById(id);
+	return new ResponseEntity<>(accountDto, HttpStatus.OK);
+	}
+	
+	
+	@PostMapping(value="/deposit/{id}")
+	public ResponseEntity<String> depositeMoney(@RequestBody AccountDto accountDto){
+		
+	}
+	
+	
+
+}

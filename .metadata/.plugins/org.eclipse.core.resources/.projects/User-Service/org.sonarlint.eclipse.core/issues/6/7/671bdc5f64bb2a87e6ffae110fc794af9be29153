@@ -1,0 +1,6 @@
+
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b 3787795d46be85b3ff87233dc731a42ch
+u
+java:S1128":Remove this unused import 'jakarta.persistence.OneToMany'.8Í€çşî1b d3373328052e12853e0adfbebe9b9a13h
+”
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").8æ™öşî1b a818702b43cf9ac27969d3cb9bc1fec5h

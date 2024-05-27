@@ -1,0 +1,9 @@
+
+j
+java:S2201"/The return value of "orElseThrow" must be used.8úŒËíâ1b f152cad97ee1ade475e2d9e533c12a2eh
+š
+java:S1488#"_Immediately return this expression instead of assigning it to the temporary variable "quetion".8´ÀÖíâ1b 357b8fe86672b7a899e31be24e3be644h
+‰
+java:S1192"NDefine a constant instead of duplicating this literal "No User found" 3 times.8Ò¹Øíâ1b 3bc05a4fa77423889d851636d1b56755h
+j
+java:S2201)"/The return value of "orElseThrow" must be used.8Ò¹Øíâ1b f152cad97ee1ade475e2d9e533c12a2eh

@@ -1,0 +1,7 @@
+package shg.bankingApplication.service.impl;
+
+import shg.bankingApplication.service.AccountService;
+
+public class AccountServiceImpl implements AccountService {
+
+}

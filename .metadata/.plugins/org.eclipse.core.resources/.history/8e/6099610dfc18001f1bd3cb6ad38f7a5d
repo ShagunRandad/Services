@@ -1,0 +1,5 @@
+package shg.bankingApplication.exception;
+
+public class UserDefineException {
+
+}

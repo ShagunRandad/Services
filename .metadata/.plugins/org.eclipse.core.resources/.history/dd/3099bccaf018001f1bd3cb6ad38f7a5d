@@ -1,0 +1,11 @@
+package shg.bankingApplication.service;
+
+import shg.bankingApplication.dto.AccountDto;
+
+public interface AccountService {
+   
+	
+	AccountDto createAccount(AccountDto accountDto);
+	
+	AccountDto getAccountById(String accountId);
+}

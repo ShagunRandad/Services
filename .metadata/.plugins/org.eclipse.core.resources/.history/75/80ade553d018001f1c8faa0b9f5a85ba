@@ -1,0 +1,9 @@
+package shg.bankingApplication.entity;
+
+public class Account {
+	private Long id;
+	private String acoountHolderName;
+	private double balance;
+	
+
+}

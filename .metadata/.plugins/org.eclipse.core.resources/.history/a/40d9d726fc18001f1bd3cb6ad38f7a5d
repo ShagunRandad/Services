@@ -1,0 +1,12 @@
+package shg.bankingApplication.exception;
+
+public class UserDefineException  extends RuntimeException{
+	UserDefineException(){
+		super("Something Went Wrong");
+	}
+	
+	public UserDefineException(String message){
+		super(message);
+	}
+
+}

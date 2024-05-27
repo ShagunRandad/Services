@@ -1,0 +1,6 @@
+
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b 8adc247a3f7e8e2326f3acb439deffa4h
+P
+java:S1700"Rename field "rating"8êñÁÑÔ1b 2c5504ab9a86164db22a92dc8793843dh
+t
+java:S1128"9Remove this unused import 'jakarta.annotation.Generated'.8Î—¶ÜÔ1b 08199462e1eecc3b32a1df50c5e2aa6ah

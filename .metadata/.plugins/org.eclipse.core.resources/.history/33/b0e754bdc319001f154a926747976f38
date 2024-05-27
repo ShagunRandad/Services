@@ -1,0 +1,19 @@
+package shg.bankingApplication.exception;
+
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.ControllerAdvice;
+import org.springframework.web.bind.annotation.ExceptionHandler;
+
+import shg.bankingApplication.service.AccountService;
+
+@ControllerAdvice
+public class GlobalException {
+	
+	@ExceptionHandler(NotFoundException.class)
+	public ResponseEntity<String> NotFoundException(org.springframework.data.crossstore.ChangeSetPersister.NotFoundException e){
+		return new ResponseEntity<>("NotFOUND",HttpStatus.NOT_FOUND);
+		
+	}
+
+}

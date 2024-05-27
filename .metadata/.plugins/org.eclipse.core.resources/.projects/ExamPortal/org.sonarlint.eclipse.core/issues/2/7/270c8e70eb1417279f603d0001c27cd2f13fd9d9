@@ -1,0 +1,12 @@
+
+‘
+java:S1128
+"VRemove this unused import 'org.springframework.security.core.userdetails.UserDetails'.8˜Ñ¦Ãß1b 2e43daa1aeb80903a22da48ad1ded6edh
+”
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").8‘³™ÕÞ1b f12fee7577ddee1dfd97baf64c0a9dbch
+l
+java:S1128"1Remove this unused import 'java.util.Collection'.8˜Ñ¦Ãß1b 30db985e2981c16fcd156e993db55d2eh
+v
+java:S1128";Remove this unused import 'jakarta.persistence.JoinColumn'.8˜Ñ¦Ãß1b 982abf4ba553106a2be4a92cbe1f6809h
+Š
+java:S1128	"ORemove this unused import 'org.springframework.security.core.GrantedAuthority'.8˜Ñ¦Ãß1b e4f9b2f18662b9fffdc3ebd43f5e9ebbh

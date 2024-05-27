@@ -1,0 +1,10 @@
+package shg.bankingApplication.service;
+
+import shg.bankingApplication.dto.AccountDto;
+import shg.bankingApplication.entity.Account;
+
+public interface AccountService {
+   
+	
+	AccountDto createAccount(AccountDto accountDto);
+}

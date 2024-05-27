@@ -1,0 +1,11 @@
+
+
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.8³°Ê©ï1b aaaba253df39297822d324a05b763895h
+v	java:S125F"<This block of commented-out lines of code should be removed.8³°Ê©ï1b 17139da630530df4836e5f2f7fe5e6f8h
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b 51b092790f52c44f9c15f63b3bef4e65h
+„
+java:S1128"IRemove this unused import 'com.lcwd.serviceRegistry.payload.ApiResponce'.8æÔŸ¨ï1b 3ca45ffe6abea56844463bdbfedaadd4h
+k
+java:S1128"0Remove this unused import 'java.util.ArrayList'.8æÔŸ¨ï1b 510ef3bd202c030c041eba1094753b66h
+
+java:S6204J"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'8æÔŸ¨ï1b f31c9542f92d797a57d6f9bafca179cdh
